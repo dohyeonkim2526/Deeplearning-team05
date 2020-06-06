@@ -1,1 +1,6 @@
+There are not enough spaces on my laptop, i upload dataset download link.
 
+Dataset link : [GitHub](https://seungjunnah.github.io/Datasets/reds.html)
+
+I think we can only download train_blur, val_blur, test_blur for training and test, and sharp images for labels.
+(Caution - check if sharp images and blur images have same scenes. if not, we can't use sharp images as labels.) 
